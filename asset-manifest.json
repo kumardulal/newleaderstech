@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github.io/newleaderstech/static/css/main.d904b232.chunk.css",
+    "main.js": "/github.io/newleaderstech/static/js/main.fbec7347.chunk.js",
+    "main.js.map": "/github.io/newleaderstech/static/js/main.fbec7347.chunk.js.map",
+    "runtime-main.js": "/github.io/newleaderstech/static/js/runtime-main.66b46382.js",
+    "runtime-main.js.map": "/github.io/newleaderstech/static/js/runtime-main.66b46382.js.map",
+    "static/js/2.c820f129.chunk.js": "/github.io/newleaderstech/static/js/2.c820f129.chunk.js",
+    "static/js/2.c820f129.chunk.js.map": "/github.io/newleaderstech/static/js/2.c820f129.chunk.js.map",
+    "index.html": "/github.io/newleaderstech/index.html",
+    "static/css/main.d904b232.chunk.css.map": "/github.io/newleaderstech/static/css/main.d904b232.chunk.css.map",
+    "static/js/2.c820f129.chunk.js.LICENSE.txt": "/github.io/newleaderstech/static/js/2.c820f129.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66b46382.js",
+    "static/js/2.c820f129.chunk.js",
+    "static/css/main.d904b232.chunk.css",
+    "static/js/main.fbec7347.chunk.js"
+  ]
+}
