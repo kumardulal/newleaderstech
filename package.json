@@ -48,11 +48,11 @@
   
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kumardulal/newleaderstech.github.io.git"
+    "url": "git+https://github.com/kumardulal/newleaderstech.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kumardulal/newleaderstech.github.io/issues"
+    "url": "https://github.com/kumardulal/newleaderstech/issues"
   }
 }
