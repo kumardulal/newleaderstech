@@ -1,5 +1,5 @@
 import React from 'react';
-import { HashRouter , Switch, Route } from 'react-router-dom';
+import { HashRouter as Router , Switch, Route } from 'react-router-dom';
 import Homepage from '../../pages/Homepage';
 // import ContentContainer from '../navigation/ContentContainer';
 
@@ -11,14 +11,14 @@ function Routing() {
         <>
             <Nav />
             <div className="Routing">
-                <HashRouter basename={process.env.PUBLIC_URL}>
+                <Router>
                     <div className="inner-content">
                         <Switch>
                             <Route path="/newleaderstech" exact component={Homepage} />
                             <Route path="/newleaderstech/me" exact component={Me} />
                         </Switch>
                     </div>
-                </HashRouter>
+                </Router>
             </div>
 
         </>
