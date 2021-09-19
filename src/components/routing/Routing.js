@@ -14,8 +14,8 @@ function Routing() {
                 <Router>
                     <div className="inner-content">
                         <Switch>
-                            <Route path="/newleaderstech" exact component={Homepage} />
-                            <Route path="/newleaderstech/me" exact component={Me} />
+                            <Route path="/" exact component={Homepage} />
+                            <Route path="/me" exact component={Me} />
                         </Switch>
                     </div>
                 </Router>
